@@ -1,0 +1,4 @@
+client/Procfile
+client/setup.sh
+server/Procfile
+.ipynb_checkpoints
